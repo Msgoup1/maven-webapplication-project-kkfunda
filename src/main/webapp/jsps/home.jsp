@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to ms group of companies</h1>
+<h1 align="center">Welcome to MS Group of Companies</h1>
 <h1 align="center">Shadnagr</h1>
 <hr>
 <br>
