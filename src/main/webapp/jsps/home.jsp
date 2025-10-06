@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to MS Group of Companies</h1>
-<h1 align="center">Shadnagr</h1>
+<h1 align="center">hyd</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
